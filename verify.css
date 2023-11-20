@@ -1,0 +1,15 @@
+body{
+    
+    height: 150vh;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: bottom;
+    background: linear-gradient(to right,white,grey);
+    color:black;
+	font-size:20;
+
+}
+b{
+	color:black;
+}
